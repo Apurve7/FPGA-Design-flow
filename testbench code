@@ -20,4 +20,4 @@ always #9 S0=~S0;
 always #10 S1=~S1;
 always #11 S2=~S2;
   
-endmodule;
+endmodule
